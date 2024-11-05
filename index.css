@@ -9,7 +9,7 @@
     min-height: 100vh;
     place-content: center;
     align-items: center;
-    background: red;
+    background: #eaf5f5;
 }
 input{
     padding: 80px 0;
